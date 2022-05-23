@@ -1,0 +1,18 @@
+está usando la API.. JSONPLACEHOLDER
+acordarse como saca del navegador el tema del get y del post para esta API
+...
+https://www.youtube.com/watch?v=6lvI-gTF_X8
+ahí está la explicación pero resulta bastante clara
+importante
+
+ver como en FetchCard cuando hace el getPost.. primero pregunta..porque hay que 
+acordarse que el react siempre se renderiza.. entonces evitar la primera 
+que daría un usuario undefined .. por eso pregunta en getPost si el 
+user.id existe 
+ACORDARSE EN FECHCARD como soluciona que se recuerde el estado 
+con useCallback.. 
+
+lo de FECHCARD está comentado pero sirve ..si se descomenta
+
+
+
